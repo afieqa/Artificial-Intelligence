@@ -1,9 +1,11 @@
 # Artificial-Intelligence
-# CAR PLATE RECOGNITION
+# CAR PLATE RECOGNITION SYSTEM
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Car Plate Recognition 
+
+
+**Project Title:** Car Plate Recognition System
 
 **Team Members:** 
 - Nurin Syafiqah binti Mohd Saofi (B031910122)
@@ -12,20 +14,14 @@
 - NurSyafiqah Adilla binti Mohd Syafiq @ Jackson (B031910324)
 
 
-- [ ] **Objectives:**
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+**Objectives:**
+- To develop an artificial intelligence system that are able to detect Malaysia car number plate
+- To develop a system that are able to recognize the character of the car number plate
+- To develop an application programming interface (API) for the future ease of use as the integration module
 
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
-
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
-
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
 
 
 ![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
