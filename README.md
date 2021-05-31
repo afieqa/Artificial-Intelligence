@@ -1,9 +1,9 @@
 # Artificial-Intelligence
-# 
+# CAR PLATE RECOGNITION
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** 
+**Project Title:** Car Plate Recognition 
 
 **Team Members:** 
 - Nurin Syafiqah binti Mohd Saofi (B031910122)
