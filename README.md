@@ -6,10 +6,10 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Nurin Syafiqah binti Mohd Saofi (B031910122)
+- Nur Fatin binti Yazid (B031910017)
+- Nor Afieqa binti Mahdi (B031910141)
+- NurSyafiqah Adilla binti Mohd Syafiq @ Jackson (B031910324)
 
 
 - [ ] **Objectives:**
