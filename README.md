@@ -1,9 +1,9 @@
 # Artificial-Intelligence
-# FACE MASK DETECTION USING DEEP LEARNING 
+# 
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** 
 
 **Team Members:** 
 - Nurin Syafiqah binti Mohd Saofi (B031910122)
