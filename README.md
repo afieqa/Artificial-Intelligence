@@ -24,7 +24,7 @@
 
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
+![Coding](![Desert Safari Facebook Cover](https://user-images.githubusercontent.com/80866677/122078743-63ea0d00-ce2f-11eb-90c8-63c42d3ed7e1.png)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
