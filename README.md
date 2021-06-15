@@ -177,7 +177,7 @@ Given these results, we are hopeful that our model will generalize well to image
 
 ## F.  RESULT AND CONCLUSION
 
-Detecting COVID-19 face masks with OpenCV in real-time
+Recognising the license car plate in real-time.
 
 You can then launch the mask detector in real-time video streams using the following command:
 - $ python detect_mask_video.py
@@ -185,11 +185,11 @@ You can then launch the mask detector in real-time video streams using the follo
 - INFO] loading face mask detector model...
 - [INFO] starting video stream...
 
-[![Figure5](https://img.youtube.com/vi/wYwW7gAYyxw/0.jpg)](https://www.youtube.com/watch?v=p4SY5vXnL_4)
+[![Figure5](https://i.ytimg.com/vi/p4SY5vXnL_4/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4SY5vXnL_4)
 
-Figure 5: Mask detector in real-time video streams
+Figure 5: License Car Plate Recognition in Malaysia
 
-In Figure 5, you can see that our face mask detector is capable of running in real-time (and is correct in its predictions as well.
+In Figure 5, you can see that our license car plate recognition is capable of detecting while the car moves in real time.
 
 
 
