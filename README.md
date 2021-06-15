@@ -24,7 +24,7 @@
 
 
 
-![Coding](![System Cover](https://user-images.githubusercontent.com/80866677/122080137-9b0cee00-ce30-11eb-9f67-970be4573f44.png))
+![System Cover](https://user-images.githubusercontent.com/80866677/122080137-9b0cee00-ce30-11eb-9f67-970be4573f44.png)
 Figure 1 shows the AI output of detecting license car plate number.
 
 
