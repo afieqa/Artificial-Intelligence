@@ -24,8 +24,8 @@
 
 
 
-![Coding](![Desert Safari Facebook Cover](https://user-images.githubusercontent.com/80866677/122078743-63ea0d00-ce2f-11eb-90c8-63c42d3ed7e1.png)
-Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
+![Coding](![System Cover](https://user-images.githubusercontent.com/80866677/122080137-9b0cee00-ce30-11eb-9f67-970be4573f44.png))
+Figure 1 shows the AI output of detecting license car plate number.
 
 
 ## C.  DATASET
