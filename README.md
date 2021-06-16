@@ -18,6 +18,7 @@
 - To develop an artificial intelligence system that are able to detect Malaysia car number plate
 - To develop a system that are able to recognize the character of the car number plate
 - To develop an application programming interface (API) for the future ease of use as the integration module
+- To use image processing to identify vehicles violating traffic by their plate numbers.
 
 
 ##  B. ABSTRACT 
@@ -30,58 +31,27 @@ Figure 1 shows the AI output of detecting license car plate number.
 
 ## C.  DATASET
 
-In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
-
-From there, we’ll review the dataset we’ll be using to train our custom face mask detector.
-
-I’ll then show you how to implement a Python script to train a face mask detector on our dataset using Keras and TensorFlow.
-
-We’ll use this Python script to train a face mask detector and review the results.
 
 Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
 
-- Detect COVID-19 face masks in images
-- Detect face masks in real-time video streams
+- Detect license car plate number in images
+- Detect car plate number  in real-time video streams
 
 We’ll wrap up the post by looking at the results of applying our face mask detector.
 
 
-There is two-phase COVID-19 face mask detector as shown in Figure 2:
-
-![Figure 2](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png)
-Figure 2: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning 
-
-In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
-
-- Training: Here we’ll focus on loading our face mask detection dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing the face mask detector to disk
-
-- Deployment: Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with_mask or without_mask
-
-We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
-
-
-Our COVID-19 face mask detection dataset as shown in Figure 3:
+Video 1
 
 [![Figure 3](![Snapshot_8](https://user-images.githubusercontent.com/80866677/122157113-dd6c1480-ce9c-11eb-8587-6aadbf68e56f.png)](https://user-images.githubusercontent.com/80866677/122157213-0d1b1c80-ce9d-11eb-9c41-c12a945105fe.mp4)
 
-Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
+This video was taken from dashcam by a youtuber (Basri Bakar).
 
-The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
+This dataset consists of 1 video and xxx images.
 
-This dataset consists of 1,376 images belonging to two classes:
+Our goal is to train a custom deep learning model to detect car plate number in real life or pictures.
 
-- with_mask: 690 images
-- without_mask: 686 images
-
-Our goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask.
-
-How was our face mask dataset created?
-Prajna, like me, has been feeling down and depressed about the state of the world — thousands of people are dying each day, and for many of us, there is very little (if anything) we can do.
-
-To help keep her spirits up, Prajna decided to distract herself by applying computer vision and deep learning to solve a real-world problem:
-
-- Best case scenario — she could use her project to help others
-- Worst case scenario — it gave her a much needed mental escape
+Why we want to create license car plate recognition system?
+Violation of traffic legislation has been acknowledged as a major cause of road accidents in most areas of the world. Even if the rules and regulation against them are present, the number of violators is continuously growing. A system must therefore be established to help police agencies enforce these standards in order to improve road safety and reduce road accidents.
 
 
 ## D.   PROJECT STRUCTURE
