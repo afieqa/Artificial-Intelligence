@@ -51,6 +51,7 @@ This dataset consists of 1 video and xxx images.
 Our goal is to train a custom deep learning model to detect car plate number in real life or pictures.
 
 Why we want to create license car plate recognition system?
+
 Violation of traffic legislation has been acknowledged as a major cause of road accidents in most areas of the world. Even if the rules and regulation against them are present, the number of violators is continuously growing. A system must therefore be established to help police agencies enforce these standards in order to improve road safety and reduce road accidents.
 
 
