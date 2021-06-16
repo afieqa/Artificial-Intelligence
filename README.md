@@ -1,11 +1,11 @@
 # Artificial-Intelligence
-# CAR PLATE RECOGNITION SYSTEM
+# LICENSE CAR PLATE RECOGNITION SYSTEM
 
 ## A. PROJECT SUMMARY
 
 
 
-**Project Title:** Car Plate Recognition System
+**Project Title:** License Car Plate Recognition System
 
 **Team Members:** 
 - Nurin Syafiqah binti Mohd Saofi (B031910122)
@@ -62,7 +62,7 @@ We’ll review each of these phases and associated subsets in detail in the rema
 
 Our COVID-19 face mask detection dataset as shown in Figure 3:
 
-![Figure 3](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+[![Figure 3](![Snapshot_8](https://user-images.githubusercontent.com/80866677/122157113-dd6c1480-ce9c-11eb-8587-6aadbf68e56f.png)](https://user-images.githubusercontent.com/80866677/122157213-0d1b1c80-ce9d-11eb-9c41-c12a945105fe.mp4)
 
 Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
 
