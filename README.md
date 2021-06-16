@@ -160,7 +160,7 @@ You can then launch the mask detector in real-time video streams using the follo
 
 Figure 5: License Car Plate Recognition in Malaysia
 
-In Figure 5, you can see that our license car plate recognition is capable of detecting while the car moves in real time.
+In Figure 5, you can see that license car plate recognition is capable of detecting while the car moves in real time.
 
 
 
