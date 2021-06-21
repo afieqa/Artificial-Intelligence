@@ -150,11 +150,6 @@ Given these results, we are hopeful that our model will generalize well to image
 
 Recognising the license car plate in real-time.
 
-You can then launch the mask detector in real-time video streams using the following command:
-- $ python detect_mask_video.py
-- [INFO] loading face detector model...
-- INFO] loading face mask detector model...
-- [INFO] starting video stream...
 
 [![Figure5](https://i.ytimg.com/vi/p4SY5vXnL_4/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4SY5vXnL_4)
 
@@ -166,19 +161,11 @@ In Figure 5, you can see that license car plate recognition is capable of detect
 
 ## G.   PROJECT PRESENTATION 
 
-In this project, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
+In this project, you learned how to create a license car plate recogniser using OpenCV, Keras/TensorFlow, and Deep Learning.
 
-To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
+To create our license car plate detector, we trained an image of car plate number and real time video.
 
-We fine-tuned MobileNetV2 on our mask/no mask dataset and obtained a classifier that is ~99% accurate.
 
-We then took this face mask classifier and applied it to both images and real-time video streams by:
-
-- Detecting faces in images/video
-- Extracting each individual face
-- Applying our face mask classifier
-
-Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
 [![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
 
