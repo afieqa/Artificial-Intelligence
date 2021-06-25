@@ -90,13 +90,11 @@ The technique that we use to run the system is:
 ### **2. Bilateral Filter**
 - known as Gaussian Blur, a non-linear, edge-preserving, and noise-reducing smoothing filter for images. It replaces the intensity of each pixel with a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution
 
-Original Picture:
+Original Picture:                                       After Bilateral filter process
 
-![T2](https://user-images.githubusercontent.com/80866677/123433234-cd230a80-d5fd-11eb-84ab-e3d3bd4c4cfe.jpg)
+![image](https://user-images.githubusercontent.com/80866677/123436595-5ee04700-d601-11eb-8163-3b289c7d48aa.png)
 
-After Bilateral filter process
 
-![image](https://user-images.githubusercontent.com/80866677/123433291-df9d4400-d5fd-11eb-9052-8566c8e5db38.png)
 
 
 ### **3. Canny Edged Detection**
