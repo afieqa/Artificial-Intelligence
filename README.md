@@ -163,7 +163,7 @@ In Figure 5, you can see that license car plate recognition is capable of detect
 
 In this project, you learned how to create a license car plate recogniser using OpenCV, Keras/TensorFlow, and Deep Learning.
 
-To create our license car plate detector, we trained an image of car plate number and real time video.
+
 
 
 
