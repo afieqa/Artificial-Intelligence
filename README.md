@@ -82,12 +82,12 @@ In the next two sections, we will show how we use our license car plate detector
 
 The technique that we use to run the system is:
 
-# **1. Pytesseract**
+### **1. Pytesseract**
 - Pytesseract or known as Python-tesseract is a tool to read and recognize the text in pictures and licence plates. It change text in picture into string.
 
 ![image](https://user-images.githubusercontent.com/80866677/123432571-1e7eca00-d5fd-11eb-9b29-a491016e97c6.png)
 
-# **2. Bilateral Filter**
+### **2. Bilateral Filter**
 - known as Gaussian Blur, a non-linear, edge-preserving, and noise-reducing smoothing filter for images. It replaces the intensity of each pixel with a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution
 
 Original Picture:
@@ -99,13 +99,13 @@ After Bilateral filter process
 ![image](https://user-images.githubusercontent.com/80866677/123433291-df9d4400-d5fd-11eb-9052-8566c8e5db38.png)
 
 
-# **3. Canny Edged Detection**
+### **3. Canny Edged Detection**
 - a multi-stage edge detector operator that employs a vast spectrum of images to detect edges.
 
 ![image](https://user-images.githubusercontent.com/80866677/123434905-92ba6d00-d5ff-11eb-84c3-251e9cac3fa7.png)
 
 
-# **4. imageTK**
+### **4. imageTK**
 - a module contains support to create and modify Tkinter BitmapImage and PhotoImage objects from PIL images.
 
 ![image](https://user-images.githubusercontent.com/80866677/123435607-50ddf680-d600-11eb-8d63-1a0b527f7853.png)
