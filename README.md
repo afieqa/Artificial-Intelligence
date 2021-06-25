@@ -7,7 +7,7 @@
 
 **Project Title:** License Car Plate Recognition System
 
-![Beige Simple Minimalist Client Testimonial Instagram Post](https://user-images.githubusercontent.com/80866677/123492805-22d2d380-d64d-11eb-982f-6d9533c8c89e.png)
+![Pink Tone Restaurant Facebook Cover](https://user-images.githubusercontent.com/80866677/123492961-9aa0fe00-d64d-11eb-8ff7-b6e1df1c6c6e.png)
 
 
 **Team Members:** 
