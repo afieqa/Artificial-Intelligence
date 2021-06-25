@@ -32,7 +32,7 @@ Figure 1 shows the AI output of detecting license car plate number.
 ## C.  DATASET
 
 
-Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
+Given the trained License Car Plate Recognition System, we’ll proceed to implement two more additional Python scripts used to:
 
 - Detect license car plate number in images
 - Detect car plate number  in real-time video streams
@@ -78,9 +78,9 @@ The following directory is our structure of our project:
 - 5 directories, 10 files
 
 
-The dataset/ directory contains the data described in the “Our COVID-19 face mask detection dataset” section.
+The dataset/ directory contains the data described in the “Our License Car Plate detection dataset” section.
 
-Three image examples/ are provided so that you can test the static image face mask detector.
+Three image examples/ are provided so that you can test the static image license car plate detector.
 
 We’ll be reviewing three Python scripts in this tutorial:
 
@@ -88,7 +88,7 @@ We’ll be reviewing three Python scripts in this tutorial:
 - detect_mask_image.py: Performs face mask detection in static images
 - detect_mask_video.py: Using your webcam, this script applies face mask detection to every frame in the stream
 
-In the next two sections, we will train our face mask detector.
+In the next two sections, we will train our license car plate detector.
 
 
 
