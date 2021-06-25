@@ -111,9 +111,12 @@ Original Picture:
 ![image](https://user-images.githubusercontent.com/80866677/123435607-50ddf680-d600-11eb-8d63-1a0b527f7853.png)
 
 
-## F.  RESULT AND CONCLUSION
+## F.  RESULT 
 
-Recognising the license car plate in real-time.
+### Recognising the license car plate in using static image.
+
+- Original image
+
 
 
 
