@@ -28,7 +28,7 @@ images = []
 
 #to add command add button
 def addApp():
-    filename = filedialog.askopenfilename(initialdir="C:/Users/nmusl_maop6lp/PycharmProjects/licensePlateNumberRecognition", title="Select File",
+    filename = filedialog.askopenfilename(initialdir="licensePlateNumberRecognition/Dataset", title="Select File",
                                           filetypes=(("exceutables", "*.jpg"), ("all files", "*.*")))
     #get the choosen image
     image2 = Image.open(filename)
@@ -102,9 +102,10 @@ def addApp():
 
         #to print out the result on gui
         detectedNo = tk.Label(root, text=text, bg="black", fg="white")
-        stateFrom = Label(root, text=states[stat], height=100, width=100)
+        stateFrom = tk.Label(root, text="FROM = " + states[stat], bg="black", fg="white")
         detectedNo.place(x=700, y=210)
-        stateFrom.place(x=700, y=250)
+        stateFrom.place(x=800, y=210)
+
 
         #print photo plate
         # You may need to convert the color.
