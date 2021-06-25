@@ -7,6 +7,9 @@
 
 **Project Title:** License Car Plate Recognition System
 
+![Beige Simple Minimalist Client Testimonial Instagram Post](https://user-images.githubusercontent.com/80866677/123492805-22d2d380-d64d-11eb-982f-6d9533c8c89e.png)
+
+
 **Team Members:** 
 - Nurin Syafiqah binti Mohd Saofi (B031910122)
 - Nur Fatin binti Yazid (B031910017)
