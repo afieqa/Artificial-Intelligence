@@ -131,7 +131,6 @@ Original Picture:
 
 In this project, you learned how to create a license car plate recogniser using Static Image and GUI.
 
-https://youtu.be/L_80wnOgU1w
 
 
 
