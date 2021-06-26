@@ -131,8 +131,7 @@ Original Picture:
 
 In this project, you learned how to create a license car plate recogniser using Static Image and GUI.
 
-[![demo](![Slide1](https://user-images.githubusercontent.com/80866677/123509276-0feced00-d6a7-11eb-83dd-bdbf6b442c98.PNG))](https://www.youtube.com/watch?v=L_80wnOgU1w)
 
-
+[![front slide](https://user-images.githubusercontent.com/80866677/123509346-7a9e2880-d6a7-11eb-8324-05d27c59b2a8.PNG))](https://www.youtube.com/watch?v=-p7HGwOWxtg "front slide")
 
 
