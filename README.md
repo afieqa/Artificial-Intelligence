@@ -107,6 +107,9 @@ Original Picture:
 
 ![image](https://user-images.githubusercontent.com/80866677/123434905-92ba6d00-d5ff-11eb-84c3-251e9cac3fa7.png)
 
+![image](https://user-images.githubusercontent.com/80866677/123502381-7dd0ee80-d67e-11eb-9966-4620a935c883.png)
+
+
 
 ### **4. imageTK**
 - a module contains support to create and modify Tkinter BitmapImage and PhotoImage objects from PIL images.
@@ -126,13 +129,9 @@ Original Picture:
 
 ## G.   PROJECT PRESENTATION 
 
-In this project, you learned how to create a license car plate recogniser using OpenCV, Keras/TensorFlow, and Deep Learning.
+In this project, you learned how to create a license car plate recogniser using Static Image and GUI.
 
-
-
-
-
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+https://youtu.be/L_80wnOgU1w
 
 
 
