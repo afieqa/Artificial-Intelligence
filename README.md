@@ -175,7 +175,7 @@ The technique that we use to run the system is:
 - **[Figure 15] shows the Before choose the image**
 
 
-![image](https://user-images.githubusercontent.com/80866677/123509412-f39d8000-d6a7-11eb-9c09-0c852d95d2e9.png)
+![image](https://user-images.githubusercontent.com/80866677/123510006-91467e80-d6ab-11eb-9704-37e86dd2b8e8.png)
 
 - **[Figure 16] shows the After choose the image**
 
