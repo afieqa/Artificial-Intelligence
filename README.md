@@ -121,9 +121,52 @@ Original Picture:
 
 ### Recognising the license car plate in using static image.
 
-- Original image
+- **[Figure 1] shows the Original image**
+
+![image](https://user-images.githubusercontent.com/80866677/123509506-81796b00-d6a8-11eb-83e5-020964f51f7f.png)
 
 
+- **[Figure 2] shows the 1st process**
+
+![image](https://user-images.githubusercontent.com/80866677/123509514-89d1a600-d6a8-11eb-8f24-9aac84449749.png)
+
+
+- **[Figure 3] shows the 2nd process**
+
+![image](https://user-images.githubusercontent.com/80866677/123509469-50993600-d6a8-11eb-8bab-3f1a8f3a612d.png)
+
+
+- **[Figure 4] shows the 3rd process**
+
+![image](https://user-images.githubusercontent.com/80866677/123509526-97872b80-d6a8-11eb-8db3-cf975bb54cdd.png)
+
+
+- **[Figure 5] shows the 4th process**
+
+![image](https://user-images.githubusercontent.com/80866677/123509573-d5844f80-d6a8-11eb-880e-9c8e6c6b07ab.png)
+
+
+- **[Figure 6] shows the 5th process**
+
+![image](https://user-images.githubusercontent.com/80866677/123509577-dddc8a80-d6a8-11eb-9d77-1cbbf550ffdd.png)
+
+
+- **[Figure 7] shows the Result**
+
+![image](https://user-images.githubusercontent.com/80866677/123509587-ea60e300-d6a8-11eb-95d5-5d5bad58dc37.png)
+
+
+
+### Recognising the license car plate using GUI
+
+- **[Figure 8] shows the Before choose the image**
+
+![image](https://user-images.githubusercontent.com/80866677/123509601-fe0c4980-d6a8-11eb-8d64-2121adbed1df.png)
+
+
+- **[Figure 9] shows the After choose the image**
+
+![image](https://user-images.githubusercontent.com/80866677/123509412-f39d8000-d6a7-11eb-9c09-0c852d95d2e9.png)
 
 
 
