@@ -29,7 +29,14 @@
 
 
 ![System Cover](https://user-images.githubusercontent.com/80866677/122080137-9b0cee00-ce30-11eb-9f67-970be4573f44.png)
-Figure 1 shows the AI output of detecting license car plate number.
+
+[Figure 1] shows the AI output of detecting license car plate number.
+
+Our goal is to train a custom deep learning model to detect car plate number in pictures and from that detection, we can know where the car from.
+
+Why we want to create license car plate recognition system?
+
+Violation of traffic legislation has been acknowledged as a major cause of road accidents in most areas of the world. Even if the rules and regulation against them are present, the number of violators is continuously growing. A system must therefore be established to help police agencies enforce these standards in order to improve road safety and reduce road accidents.
 
 
 ## C.  DATASET
@@ -42,11 +49,6 @@ Given the trained License Car Plate Recognition System, we’ll proceed to imple
 
 This dataset consists of 7 images.
 
-Our goal is to train a custom deep learning model to detect car plate number in pictures and from that detection, we can know where the car from.
-
-Why we want to create license car plate recognition system?
-
-Violation of traffic legislation has been acknowledged as a major cause of road accidents in most areas of the world. Even if the rules and regulation against them are present, the number of violators is continuously growing. A system must therefore be established to help police agencies enforce these standards in order to improve road safety and reduce road accidents.
 
 
 ## D.   PROJECT STRUCTURE
@@ -90,16 +92,19 @@ The technique that we use to run the system is:
 
 ![image](https://user-images.githubusercontent.com/80866677/123432571-1e7eca00-d5fd-11eb-9b29-a491016e97c6.png)
 
-### **2. Bilateral Filter**
-- known as Gaussian Blur, a non-linear, edge-preserving, and noise-reducing smoothing filter for images. It replaces the intensity of each pixel with a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution
+[Figure 2] shows the snap code for pytesseract command
 
-Original Picture:                                     
+
+### **2. Bilateral Filter**
+- known as Gaussian Blur, a non-linear, edge-preserving, and noise-reducing smoothing filter for images. It replaces the intensity of each pixel with a weighted average of intensity values from nearby pixels. This weight can be based on a Gaussian distribution                            
 
 ![image](https://user-images.githubusercontent.com/80866677/123436784-93540300-d601-11eb-8baf-64f43bbf85d1.png)
 
-  After Bilateral filter process
+ [Figure 3] shows the Original Picture we use:     
 
 ![image](https://user-images.githubusercontent.com/80866677/123436829-a070f200-d601-11eb-90d7-e7febf14837f.png)
+
+[Figure 4] shows the picture after Bilateral filter process
 
 
 ### **3. Canny Edged Detection**
@@ -107,7 +112,11 @@ Original Picture:
 
 ![image](https://user-images.githubusercontent.com/80866677/123434905-92ba6d00-d5ff-11eb-84c3-251e9cac3fa7.png)
 
+[Figure 5] shows the snap code for Canny Edged Detection
+
 ![image](https://user-images.githubusercontent.com/80866677/123502381-7dd0ee80-d67e-11eb-9966-4620a935c883.png)
+
+[Figure 6] shows the output of snap code in Figure 5
 
 
 
@@ -116,65 +125,66 @@ Original Picture:
 
 ![image](https://user-images.githubusercontent.com/80866677/123435607-50ddf680-d600-11eb-8d63-1a0b527f7853.png)
 
+[Figure 7] shows the snap code of using imageTK command
+
 
 ## F.  RESULT 
 
 ### Recognising the license car plate in using static image.
 
-- **[Figure 1] shows the Original image**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509506-81796b00-d6a8-11eb-83e5-020964f51f7f.png)
 
-
-- **[Figure 2] shows the 1st process**
+- **[Figure 8] shows the Original image**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509514-89d1a600-d6a8-11eb-8f24-9aac84449749.png)
 
+- **[Figure 9] shows the 1st process**
 
-- **[Figure 3] shows the 2nd process**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509469-50993600-d6a8-11eb-8bab-3f1a8f3a612d.png)
 
+- **[Figure 10] shows the 2nd process**
 
-- **[Figure 4] shows the 3rd process**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509526-97872b80-d6a8-11eb-8db3-cf975bb54cdd.png)
 
+- **[Figure 11] shows the 3rd process**
 
-- **[Figure 5] shows the 4th process**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509573-d5844f80-d6a8-11eb-880e-9c8e6c6b07ab.png)
 
+- **[Figure 12] shows the 4th process**
 
-- **[Figure 6] shows the 5th process**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509577-dddc8a80-d6a8-11eb-9d77-1cbbf550ffdd.png)
 
+- **[Figure 13] shows the 5th process**
 
-- **[Figure 7] shows the Result**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509587-ea60e300-d6a8-11eb-95d5-5d5bad58dc37.png)
 
+- **[Figure 14] shows the Result**
 
 
 ### Recognising the license car plate using GUI
 
-- **[Figure 8] shows the Before choose the image**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509601-fe0c4980-d6a8-11eb-8d64-2121adbed1df.png)
 
+- **[Figure 15] shows the Before choose the image**
 
-- **[Figure 9] shows the After choose the image**
 
 ![image](https://user-images.githubusercontent.com/80866677/123509412-f39d8000-d6a7-11eb-9c09-0c852d95d2e9.png)
 
+- **[Figure 16] shows the After choose the image**
 
 
-## G.   PROJECT PRESENTATION 
+## G.   PROJECT PRESENTATION (VIDEO)
 
 In this project, you learned how to create a license car plate recogniser using Static Image and GUI.
 
+- **Video**
 
 [![front slide](https://user-images.githubusercontent.com/80866677/123509346-7a9e2880-d6a7-11eb-8324-05d27c59b2a8.PNG))](https://www.youtube.com/watch?v=L_80wnOgU1w "front slide")
-
 
